@@ -23,8 +23,8 @@
 <br/>
 
 
-- 🔭 I’m currently learning : Full Stack Java Applications.
-- 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad and FrontEnd applications from John Hopkins University on Coursera.
+- 🔭 I’m currently woeking : Pega Developer .
+- 🌱 I’m currently pursuing : Masters in Computer Science.
 - 👯 I’m looking to collaborate with companies on Java and Full stack Projects.
 - 📫 How to reach me: ajithsurya.t@gmail.com . 
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
