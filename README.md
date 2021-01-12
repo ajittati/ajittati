@@ -1,4 +1,6 @@
 ## Hey there, I'm Ajith Surya Thati 👋
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Demoupgrad&label=Views&color=blue&style=plastic" alt="Demoupgrad" /> </p>
 <a href="https://www.linkedin.com/in/ajithsuryathati/">
   <img align="left" alt="Ajith Surya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,13 +17,19 @@
 <a href="https://www.facebook.com/tati.ajitsurya/">
   <img align="left" alt="Ajith Surya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+
 <br/>
 <br/>
+
+
 - 🔭 I’m currently learning : Full Stack Java Applications.
 - 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad and FrontEnd applications from John Hopkins University on Coursera.
 - 👯 I’m looking to collaborate with companies on Java and Full stack Projects.
 - 📫 How to reach me: ajithsurya.t@gmail.com . 
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
+
+
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
