@@ -41,10 +41,10 @@
 
 
 
-<a href="https://github.com/DheerajSurya">
+<a href="https://github.com/ajittati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitati&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/DheerajSurya">
+<a href="https://github.com/ajittati">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajittati&show_icons=true&theme=dark&line_height=27" alt="Github stats"/>
 </a>
 <div align="center">
