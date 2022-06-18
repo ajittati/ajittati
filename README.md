@@ -23,7 +23,7 @@
 <br/>
 
 
-- 🔭 I’m currently woeking : Pega Developer .
+- 🔭 I’m currently working : Pega Developer .
 - 🌱 I’m currently pursuing : Masters in Computer Science.
 - 👯 I’m looking to collaborate with companies on Java and Full stack Projects.
 - 📫 How to reach me: ajithsurya.t@gmail.com . 
