@@ -8,7 +8,7 @@
 <a href="https://github.com/ajittati">
   <img align="left" alt="Ajith Surya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="+91-9032671362">
+<a href="+447469475250">
   <img align="left" alt="Ajith Surya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/ajithsuryathati/">
@@ -23,11 +23,11 @@
 <br/>
 
 
-- 🔭 I’m currently working : Pega Developer .
+- 🔭 I’m currently working : DevOps Engineer .
 - 🌱 I’m currently pursuing : Masters in Computer Science.
-- 👯 I’m looking to collaborate with companies on Java and Full stack Projects.
+- 👯 I’m looking to collaborate with companies on DevOps/Cloud/AIOps Projects.
 - 📫 How to reach me: ajithsurya.t@gmail.com . 
-- 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
+- 😄 Hobbies: Playing badminton, Cricket, Carroms, Learning new AI tools.
 
 
 **Languages and Tools:**
