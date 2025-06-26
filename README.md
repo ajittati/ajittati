@@ -24,7 +24,7 @@
 
 
 - 🔭 I’m currently working : DevOps Engineer .
-- 🌱 I’m currently pursuing : Masters in Computer Science.
+- 🌱 I’m hold : Masters in Computer Science.
 - 👯 I’m looking to collaborate with companies on DevOps/Cloud/AIOps Projects.
 - 📫 How to reach me: ajithsurya.t@gmail.com . 
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Learning new AI tools.
